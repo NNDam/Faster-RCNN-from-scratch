@@ -1,6 +1,6 @@
 Tensorflow implement & optimize for Custom Logo Detection base on Faster-RCNN VGG16 Architecture
 [Paper](https://arxiv.org/abs/1506.01497)
-[Report](s)
+[Report](https://github.com/NNDam/Custom-Logo-Detection/blob/master/sami/LogoDetection.pdf)
 <p align="center">
 <img src="ui.png" width="500" height="280">
 </p>
