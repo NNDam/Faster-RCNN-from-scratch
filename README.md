@@ -2,7 +2,7 @@ Tensorflow implement & optimize for Custom Logo Detection base on Faster-RCNN VG
 [Paper](https://arxiv.org/abs/1506.01497)
 
 <p align="center">
-<img src="ui.png" width="350" height="200">
+<img src="ui.png" width="500" height="280">
 </p>
 
 * Run demo
