@@ -1,0 +1,7 @@
+numpy
+pandas
+opencv-python
+pillow
+PyQt5
+scikit-learn
+tensorflow-gpu==1.9.0
