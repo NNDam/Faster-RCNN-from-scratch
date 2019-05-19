@@ -16,7 +16,7 @@ class Team_Champion(QMainWindow):
     def __init__(self):
         super().__init__()
         self.title = 'NHAN DIEN THUONG HIEU'
-        self.model_path = 'fineturning/final_model.ckpt'
+        self.model_path = 'pretrained/final_model.ckpt'
         self.left = 240
         self.top = 200
         self.width = 800
