@@ -1,4 +1,4 @@
-Tensorflow implement & optimize for Custom Logo Detection base on Faster-RCNN VGG16 Architecture: 
+Tensorflow implementation from scratch & optimize for Custom Logo Detection base on Faster-RCNN VGG16 Architecture: 
 [Paper](https://arxiv.org/abs/1506.01497), 
 [Report](https://github.com/NNDam/Custom-Logo-Detection/blob/master/sami/LogoDetection.pdf)
 <p align="center">
